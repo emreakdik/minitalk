@@ -1,6 +1,8 @@
 # minitalk
 Communication between two programs using signals
 
+bitwise operator gif: https://blog.wokwi.com/bitwise-operators-in-gifs/
+
 ### PID (Process Identification)
 
 PID, süreç kimliği (Process Identification) bir süreç için benzersiz bir numaradır. Bu numara, sistem üzerinde çalışan her süreç için benzersiz olarak atanır ve sistem tarafından kullanılır. PID, süreçleri tanımlamak, izlemek ve yönetmek için kullanılır. Örneğin, bir süreci durdurmak veya yeniden başlatmak için PID kullanılır. Ayrıca, bir sürecin çalışma durumunu izlemek için de PID kullanılır. 
